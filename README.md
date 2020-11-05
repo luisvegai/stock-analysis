@@ -1,5 +1,7 @@
 # Stock-Analysis
 
+Tool written in VBA for stock data analysis.
+
 # Challenge
 
 In order to diversify investment funds, we want to find the total daily volume and yearly return for each stock.
